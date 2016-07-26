@@ -1,5 +1,7 @@
 # A-Weather-App-Ionic-App Base
 
+![weatherApp](http://i.imgur.com/KkGt6BW.png)
+
 ## Quick Start
 
 I recommend using the Ionic CLI to create new Ionic projects that are based on this project but use a ready-made starter template.
